@@ -10,57 +10,11 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e54895ef-fd12-4853-801e-2175a9a07af8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../.idea/Udemy-Django.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../HelloWorld/.idea/Udemy-Django.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SNS/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SNS/asgi.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SNS/settings.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SNS/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SNS/wsgi.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/boardapp/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/boardapp/admin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/boardapp/apps.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/boardapp/migrations/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/boardapp/models.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/boardapp/tests.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/boardapp/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/boardapp/views.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/manage.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/base.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/signup.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../boardproject" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../todo/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../todo/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../todo/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../todo/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../todo/.idea/todo.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../todo/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../todo/db.sqlite3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../todo/manage.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../todo/templates/base.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../todo/templates/create.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../todo/templates/delete.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../todo/templates/detail.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../todo/templates/list.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../todo/templates/update.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../todo/todo/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../todo/todo/admin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../todo/todo/apps.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../todo/todo/migrations/0001_initial.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../todo/todo/migrations/0002_auto_20200428_1004.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../todo/todo/migrations/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../todo/todo/models.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../todo/todo/tests.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../todo/todo/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../todo/todo/views.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../todo/todoproject/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../todo/todoproject/asgi.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../todo/todoproject/settings.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../todo/todoproject/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../todo/todoproject/wsgi.py" afterDir="false" />
+    <list default="true" id="e54895ef-fd12-4853-801e-2175a9a07af8" name="Default Changelist" comment="commit">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/boardapp/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/boardapp/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/signup.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/signup.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -104,6 +58,7 @@
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="restartRequiresConfirmation" value="false" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RunManager">
@@ -146,7 +101,17 @@
       <workItem from="1588329199079" duration="221000" />
       <workItem from="1589960564064" duration="6058000" />
       <workItem from="1590133400066" duration="641000" />
+      <workItem from="1591095699674" duration="1804000" />
+      <workItem from="1591182105722" duration="378000" />
     </task>
+    <task id="LOCAL-00001" summary="commit">
+      <created>1591095760546</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1591095760547</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -166,6 +131,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit" />
   </component>
   <component name="WindowStateProjectService">
     <state x="526" y="224" key="#Notifications" timestamp="1588243338019">
@@ -184,25 +151,37 @@
       <screen x="0" y="0" width="1280" height="720" />
     </state>
     <state x="421" y="116" key="FileChooserDialogImpl/0.0.1280.720/0.-1080.1920.1080@0.0.1280.720" timestamp="1590133717341" />
-    <state width="1237" height="176" key="GridCell.Tab.0.bottom" timestamp="1590134041235">
+    <state x="520" y="259" key="Github.ShareDialog" timestamp="1591095812593">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
-    <state width="1237" height="176" key="GridCell.Tab.0.bottom/0.0.1280.720/0.-1080.1920.1080@0.0.1280.720" timestamp="1590134041235" />
-    <state width="1237" height="176" key="GridCell.Tab.0.center" timestamp="1590134041234">
+    <state x="520" y="259" key="Github.ShareDialog/0.0.1280.720/0.-1080.1920.1080@0.0.1280.720" timestamp="1591095812593" />
+    <state width="1237" height="176" key="GridCell.Tab.0.bottom" timestamp="1591097504475">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
-    <state width="1237" height="176" key="GridCell.Tab.0.center/0.0.1280.720/0.-1080.1920.1080@0.0.1280.720" timestamp="1590134041234" />
-    <state width="1237" height="176" key="GridCell.Tab.0.left" timestamp="1590134041234">
+    <state width="1237" height="176" key="GridCell.Tab.0.bottom/0.0.1280.720/0.-1080.1920.1080@0.0.1280.720" timestamp="1591097504475" />
+    <state width="1237" height="176" key="GridCell.Tab.0.center" timestamp="1591097504474">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
-    <state width="1237" height="176" key="GridCell.Tab.0.left/0.0.1280.720/0.-1080.1920.1080@0.0.1280.720" timestamp="1590134041234" />
-    <state width="1237" height="176" key="GridCell.Tab.0.right" timestamp="1590134041234">
+    <state width="1237" height="176" key="GridCell.Tab.0.center/0.0.1280.720/0.-1080.1920.1080@0.0.1280.720" timestamp="1591097504474" />
+    <state width="1237" height="176" key="GridCell.Tab.0.left" timestamp="1591097504474">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
-    <state width="1237" height="176" key="GridCell.Tab.0.right/0.0.1280.720/0.-1080.1920.1080@0.0.1280.720" timestamp="1590134041234" />
+    <state width="1237" height="176" key="GridCell.Tab.0.left/0.0.1280.720/0.-1080.1920.1080@0.0.1280.720" timestamp="1591097504474" />
+    <state width="1237" height="176" key="GridCell.Tab.0.right" timestamp="1591097504475">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="1237" height="176" key="GridCell.Tab.0.right/0.0.1280.720/0.-1080.1920.1080@0.0.1280.720" timestamp="1591097504475" />
     <state x="142" y="6" key="SettingsEditor" timestamp="1589960589975">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
     <state x="142" y="6" key="SettingsEditor/0.0.1280.720/0.-1080.1920.1080@0.0.1280.720" timestamp="1589960589975" />
+    <state x="233" y="94" key="Vcs.Push.Dialog.v2" timestamp="1591095842528">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="233" y="94" key="Vcs.Push.Dialog.v2/0.0.1280.720/0.-1080.1920.1080@0.0.1280.720" timestamp="1591095842528" />
+    <state x="401" y="149" key="git4idea.merge.GitPullDialog" timestamp="1591095801155">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="401" y="149" key="git4idea.merge.GitPullDialog/0.0.1280.720/0.-1080.1920.1080@0.0.1280.720" timestamp="1591095801155" />
   </component>
 </project>
